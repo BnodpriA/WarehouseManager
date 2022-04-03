@@ -1,0 +1,26 @@
+﻿using WarehouseManager.Application.Interfaces.Common;
+using WarehouseManager.Application.Requests.Identity;
+using WarehouseManager.Application.Responses.Identity;
+using WarehouseManager.Shared.Wrapper;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace WarehouseManager.Application.Interfaces.Services.Identity
+{
+    public interface IRoleService : IService
+    {
+        Task<Result<List<RoleResponse>>> GetAllAsync();
+
+        Task<int> GetCountAsync();
+
+        Task<Result<RoleResponse>> GetByIdAsync(string id);
+
+        Task<Result<string>> SaveAsync(RoleRequest request);
+
+        Task<Result<string>> DeleteAsync(string id);
+
+        Task<Result<PermissionResponse>> GetAllPermissionsAsync(string roleId);
+
+        Task<Result<string>> UpdatePermissionsAsync(PermissionRequest request);
+    }
+}

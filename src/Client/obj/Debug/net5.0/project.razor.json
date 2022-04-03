@@ -1,0 +1,226 @@
+{
+  "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Client.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "5.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": "WarehouseManager.Client",
+  "Documents": [
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\UserProfile.razor",
+      "TargetPath": "Pages\\Identity\\UserProfile.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Communication\\Chat.razor",
+      "TargetPath": "Pages\\Communication\\Chat.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Misc\\AddEditDocumentModal.razor",
+      "TargetPath": "Pages\\Misc\\AddEditDocumentModal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Misc\\ExtendedAttribute\\DocumentExtendedAttributes.razor",
+      "TargetPath": "Pages\\Misc\\ExtendedAttribute\\DocumentExtendedAttributes.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\Components\\HeroTitle.razor",
+      "TargetPath": "Shared\\Components\\HeroTitle.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\NotFoundLayout.razor",
+      "TargetPath": "Shared\\NotFoundLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Authentication\\Register.razor",
+      "TargetPath": "Pages\\Authentication\\Register.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\Forgot.razor",
+      "TargetPath": "Pages\\Identity\\Forgot.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\Profile.razor",
+      "TargetPath": "Pages\\Identity\\Profile.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\Roles.razor",
+      "TargetPath": "Pages\\Identity\\Roles.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Catalog\\AddEditBrandModal.razor",
+      "TargetPath": "Pages\\Catalog\\AddEditBrandModal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\UserRoles.razor",
+      "TargetPath": "Pages\\Identity\\UserRoles.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Misc\\DocumentTypes.razor",
+      "TargetPath": "Pages\\Misc\\DocumentTypes.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\Account.razor",
+      "TargetPath": "Pages\\Identity\\Account.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Authentication\\Login.razor",
+      "TargetPath": "Pages\\Authentication\\Login.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\Dialogs\\Logout.razor",
+      "TargetPath": "Shared\\Dialogs\\Logout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\Dialogs\\DeleteConfirmation.razor",
+      "TargetPath": "Shared\\Dialogs\\DeleteConfirmation.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\Error.razor",
+      "TargetPath": "Shared\\Error.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Utilities\\AuditTrails.razor",
+      "TargetPath": "Pages\\Utilities\\AuditTrails.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Content\\Dashboard.razor",
+      "TargetPath": "Pages\\Content\\Dashboard.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Misc\\DocumentStore.razor",
+      "TargetPath": "Pages\\Misc\\DocumentStore.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\Users.razor",
+      "TargetPath": "Pages\\Identity\\Users.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\Reset.razor",
+      "TargetPath": "Pages\\Identity\\Reset.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Content\\Home.razor",
+      "TargetPath": "Pages\\Content\\Home.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\RegisterUserModal.razor",
+      "TargetPath": "Pages\\Identity\\RegisterUserModal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\Components\\ExtendedAttributes.razor",
+      "TargetPath": "Shared\\Components\\ExtendedAttributes.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\Security.razor",
+      "TargetPath": "Pages\\Identity\\Security.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\RoleModal.razor",
+      "TargetPath": "Pages\\Identity\\RoleModal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\Components\\ExtendedAttributesBase.razor",
+      "TargetPath": "Shared\\Components\\ExtendedAttributesBase.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Identity\\RolePermissions.razor",
+      "TargetPath": "Pages\\Identity\\RolePermissions.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\Components\\UserCard.razor",
+      "TargetPath": "Shared\\Components\\UserCard.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\Components\\TablePager.razor",
+      "TargetPath": "Shared\\Components\\TablePager.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Catalog\\Brands.razor",
+      "TargetPath": "Pages\\Catalog\\Brands.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Catalog\\AddEditProductModal.razor",
+      "TargetPath": "Pages\\Catalog\\AddEditProductModal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Catalog\\Products.razor",
+      "TargetPath": "Pages\\Catalog\\Products.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Pages\\Misc\\AddEditDocumentTypeModal.razor",
+      "TargetPath": "Pages\\Misc\\AddEditDocumentTypeModal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\Components\\AddEditExtendedAttributeModal.razor",
+      "TargetPath": "Shared\\Components\\AddEditExtendedAttributeModal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Blazor\\WarehouseManager\\src\\Client\\Shared\\Components\\LanguageSelector.razor",
+      "TargetPath": "Shared\\Components\\LanguageSelector.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
